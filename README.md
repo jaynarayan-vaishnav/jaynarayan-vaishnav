@@ -1,4 +1,4 @@
-### Hey folks! 👋
+<h3 align="center"> Hey folks! 👋 <em>I am Jaynarayan Vaishnav</em>.<h3>
 
 <!--
 **jaynarayan-vaishnav/jaynarayan-vaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
