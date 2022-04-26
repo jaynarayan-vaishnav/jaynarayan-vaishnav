@@ -9,6 +9,10 @@
 <p align="center"> 
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full-stack+Web+Developer;Open%20Source%20|%20DevOps%20|%20AI%20|%20Ml%20;&center=true&width=580&height=45"></a>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jaynarayan-vaishnav/count.svg" />
+</p>
 
 ### I'm a Final Year Student, Full-Stack web developer and Opensource enthusist.
 
