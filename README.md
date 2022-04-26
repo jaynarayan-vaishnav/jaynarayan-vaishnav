@@ -10,11 +10,11 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full-stack+Web+Developer;Open%20Source%20|%20DevOps%20|%20AI%20|%20Ml%20;&center=true&width=580&height=45"></a>
 </p>
 
-### I'm a Final Year Student and Full-Stack web developer
+### I'm a Final Year Student, Full-Stack web developer and Opensource enthusist.
 
 <!--- 🔭 I'm currently working on ... -->
 - 🌱 I’m currently learning Javascript,Go.
-- 👯 I’m looking to collaborate on opensource projects related to webdevlopment,devops.
+- 👯 I’m looking to collaborate on opensource projects related to web devlopment,devops.
 - 🤔 I’m looking for help with DevOps,ML.
-- 💬 Ask me about python,HTML,CSS
+- 💬 Ask me about python,HTML,CSS.
 - 😄 Pronouns: He/Him
