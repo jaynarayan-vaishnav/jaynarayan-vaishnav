@@ -14,7 +14,7 @@
   <img src="https://profile-counter.glitch.me/jaynarayan-vaishnav/count.svg" />
 </p>
 
-### I'm a Final Year Student, Full-Stack web developer and Opensource enthusist.
+### I'm a Final Year Student, Full-Stack web developer and Opensource :octocat: enthusist.
 
 <!--- 🔭 I'm currently working on ... -->
 - 🌱 I’m currently learning Javascript,Go.
