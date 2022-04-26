@@ -19,3 +19,12 @@
 - 🤔 I’m looking for help with DevOps, ML.
 - 💬 Ask me about python, HTML, CSS.
 - 😄 Pronouns: He/Him
+<!-- programming languages 
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Languages-HTML-blue.svg" alt="HTML" />
+  <img src="https://img.shields.io/badge/Programming-Languages-CSS-blue.svg" alt="CSS" />
+  <img src="https://img.shields.io/badge/Programming-Languages-Javascript-blue.svg" alt="Javascript" />
+  <img src="https://img.shields.io/badge/Programming-Languages-Go-blue.svg" alt="Go" />
+  <img src="https://img.shields.io/badge/Programming-Languages-Python-blue.svg" alt="Python" />
+</p>
+-->
