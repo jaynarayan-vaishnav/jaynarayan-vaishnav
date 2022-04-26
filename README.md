@@ -15,7 +15,7 @@
 
 <!--- 🔭 I'm currently working on ... -->
 - 🌱 I’m currently learning Javascript,Go.
-- 👯 I’m looking to collaborate on open-source projects related to web devlopment,devops.
-- 🤔 I’m looking for help with DevOps,ML.
-- 💬 Ask me about python,HTML,CSS.
+- 👯 I’m looking to collaborate on open-source projects related to web devlopment, devops.
+- 🤔 I’m looking for help with DevOps, ML.
+- 💬 Ask me about python, HTML, CSS.
 - 😄 Pronouns: He/Him
