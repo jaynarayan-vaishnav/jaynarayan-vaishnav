@@ -14,7 +14,7 @@
 ### I'm a Final Year Student, Full-Stack web developer :computer: and Opensource :octocat: enthusist.
 
 <!--- 🔭 I'm currently working on ... -->
-- 🌱 I’m currently learning Javascript,Go.
+- 🌱 I’m currently learning Javascript, Go.
 - 👯 I’m looking to collaborate on open-source projects related to web devlopment, devops.
 - 🤔 I’m looking for help with DevOps, ML.
 - 💬 Ask me about python, HTML, CSS.
