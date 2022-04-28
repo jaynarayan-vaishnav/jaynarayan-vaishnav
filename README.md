@@ -10,6 +10,7 @@
   <img src="https://profile-counter.glitch.me/jaynarayan-vaishnav/count.svg" />
 </p>
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=v_jaynarayan" target="blank"><img src="https://img.shields.io/twitter/follow/v_jaynarayan?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
+
 ### I'm a Final Year Student, Full-Stack web developer :computer: and Opensource :octocat: enthusist.
 
 <!--- 🔭 I'm currently working on ... -->
