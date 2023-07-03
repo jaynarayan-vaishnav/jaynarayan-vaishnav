@@ -1,5 +1,4 @@
-<h3 align="center"> Hey folks! Thanks for visiting my profile.<em> I am Jaynarayan Vaishnav</em>.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h3 align="center"> Hey folks! Thanks for visiting my profile.<em> I am Jaynarayan Vaishnav</em>
 </h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center"> 
